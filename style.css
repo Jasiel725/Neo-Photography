@@ -1,0 +1,85 @@
+body{
+  background-color:darkgrey;
+}
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+#backGroundImage{
+    width:700px;
+    height:800px;
+    padding-left: 850px;
+    background-color: white;
+    margin-left: 200px;
+}
+#titleName{
+  transform:translate(-150px,500px);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:purple;
+}
+#titleDescription{
+    transform:translate(-150px,500px);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: mediumblue;
+}
+#viewWork{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+#firstImageName{
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         font-size: 25px;
+         
+}
+#secondImageName{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    
+}
+#thirdImageName{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+#ourWork{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+.image{
+     width:1000px;
+     height: 700px;
+     padding:1px;
+}
+#image2{
+    background-color: lightgray;
+    margin-bottom: 20px;
+    padding-right: 700px;
+    margin-right: 515px;
+    margin-right: 515px;
+}
+#image3{
+    background-color:lightgray;
+    margin-bottom: 20px;
+    padding-right: 700px;
+    margin-right: 515px;
+}
+#image4{
+    background-color:lightgray;
+    margin-bottom: 20px;
+    padding-right: 700px;
+    margin-right: 515px;
+}
+#image10{
+    background-color:rgb(36, 26, 26);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-right: 700px;
+    color: antiquewhite;
+    margin-right: 515px;
+
+}
+
+
+
+
+
